@@ -1,0 +1,380 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.py",
+			"settings":
+			{
+				"buffer_size": 5124,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "import dash"
+			}
+		},
+		{
+			"contents": "\ntrace1 = [go.Bar(\n            x=\"num_commits\",\n            y=\"repo_name\",\n            orientation = 'h',\n             palette=\"PuBu\"\n)]\n\ndata1=data[trace1]\nlayout1 = go.Layout(\n    title = 'Top Java Github Repositories by their commits Count',\n     titlefont = dict(size = 30, color='#177a21'),\n    xaxis = dict(\n            title = 'num_commits',\n            \n                ),\n    yaxis = dict(\n            title = \"repo_name\",\n            \n    ),\n",
+			"settings":
+			{
+				"buffer_size": 452,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "queries.py",
+			"settings":
+			{
+				"buffer_size": 1846,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"markdownlivepreview: ed",
+				"MarkdownLivePreview: Edit Custom CSS File"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			],
+			[
+				"bash",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"set s bas",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"set bas",
+				"Set Syntax: Bourne Again Shell (bash)"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ashish/Downloads/Github"
+	],
+	"file_history":
+	[
+		"/home/ashish/Downloads/Rainbow,py",
+		"/home/ashish/Downloads/Github/CA675-ede38ecf6679.json",
+		"/home/ashish/Downloads/Github/bq_helper.py",
+		"/home/ashish/Works/LANL/pair.json",
+		"/home/ashish/Works/Cloud_shits/new.json",
+		"/home/ashish/Works/Cloud_shits/2015-01-01-4.json",
+		"/home/ashish/Works/Practicum_dataset/119_crypto",
+		"/home/ashish/.cache/.fr-Ft6LMJ/2015-01-01-15.json",
+		"/home/ashish/Study/Pig_preprocessing",
+		"/home/ashish/Study/week1",
+		"/home/ashish/small.csv",
+		"/home/ashish/Works/Practicum_dataset/60_crypto",
+		"/home/ashish/.Xresources1",
+		"/home/ashish/.cache/.fr-LxKFQB/2015-01-01-15.json",
+		"/home/ashish/.cache/.fr-36gQyb/Cloud_Assignment/code_link.txt",
+		"/home/ashish/Study/Cloud Tech/Cloud_assignment/code_link.txt",
+		"/home/ashish/Study/Cloud Tech/Assignment1/StackExchange_DataProcessing/README.md",
+		"/home/ashish/R_1.csv",
+		"/home/ashish/Study/Cloud Tech/Report_Queries.md",
+		"/home/ashish/.config/sublime-text-3/Packages/User/MarkdownLivePreview.css",
+		"/home/ashish/Study/Cloud Tech/Report_Queries",
+		"/home/ashish/Study/Cloud Tech/QueryResults(3).csv",
+		"/home/ashish/Study/Cloud Tech/R_4.csv",
+		"/home/ashish/Study/Cloud Tech/R_1.csv",
+		"/home/ashish/Study/Cloud Tech/R_2.csv",
+		"/home/ashish/Study/Cloud Tech/R_3.csv",
+		"/home/ashish/Study/Cloud Tech/R_5.csv",
+		"/home/ashish/Study/Cloud Tech/Rb.csv",
+		"/home/ashish/Study/Cloud Tech/QueryResults(4).csv",
+		"/home/ashish/Study/Cloud Tech/new.csv",
+		"/home/ashish/Study/Cloud Tech/QueryResults.csv",
+		"/home/ashish/Study/Cloud Tech/doc.txt",
+		"/home/ashish/Study/Cloud Tech/QueryResults(2).csv",
+		"/home/ashish/Study/Cloud Tech/QueryResults(1).csv",
+		"/home/ashish/Study/Cloud Tech/R4.csv",
+		"/home/ashish/part-m-00000",
+		"/home/ashish/part-r-00000",
+		"/home/ashish/new.csv",
+		"/home/ashish/R1.csv",
+		"/home/ashish/Study/Cloud Tech/R1.csv",
+		"/home/ashish/Study/Cloud Tech/R.csv",
+		"/home/ashish/Study/Cloud Tech/R2.csv",
+		"/home/ashish/Study/Cloud Tech/R5.csv",
+		"/home/ashish/Downloads/QueryResults.csv",
+		"/home/ashish/Downloads/QueryResults(4).csv",
+		"/home/ashish/Works/Jupyter Stuff/housing",
+		"/home/ashish/Exported Items.bib",
+		"/home/ashish/.config/i3status/config",
+		"/home/ashish/.Xresources",
+		"/home/ashish/Documents/TSExercise2Data.csv",
+		"/tmp/mozilla_ashish0/Example2pt11.txt",
+		"/home/ashish/Downloads/submission_format.csv",
+		"/home/ashish/Downloads/dengue_features_test.csv",
+		"/home/ashish/Downloads/dengue_features_train.csv",
+		"/home/ashish/Downloads/dengue_labels_train.csv",
+		"/home/ashish/Works/Jupyter Stuff/housing.csv",
+		"/home/ashish/Downloads/Mathematics for Machine Learning/linear-algebra-machine-learning/01_introduction-to-linear-algebra-and-to-mathematics-for-machine-learning/01_welcome-to-this-course/01_introduction-solving-data-science-challenges-with-mathematics.en.txt",
+		"/home/ashish/.config/rofi/config.rasi",
+		"/run/media/ashish/ashish/Laptop backup/Configs/.i3/config",
+		"/home/ashish/.config/i3/rofi.sh",
+		"/home/ashish/.config/rofi/config",
+		"/usr/share/X11/xorg.conf.d/40-libinput.conf"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								456,
+								456
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import dash",
+							"markdonw_live_preview_last_run": 1555097590.85,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 209.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "queries.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1846,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1675,
+								1675
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 583.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cloud_dash.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
